@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Submaryne
 - 👀 Java/C++/Python
-- 📫 discord: sub1688
+- 📫 instagram: alistair.lee.2024
 
 <!---
 Submaryne/Submaryne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
